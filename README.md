@@ -5,7 +5,7 @@
 Built from the ground up utilizing Apple's modern graphics APIs and SwiftUI, Bifrost plays stunning, high-framerate video wallpapers while seamlessly pausing in the background when your system needs to focus.
 
 <p align="center">
-  <img src="[https://i.imgur.com/your-app-screenshot.png](https://i.imgur.com/Bi5INQk.png](https://i.imgur.com/Bi5INQk.png)" alt="Bifrost Screenshot" width="700">
+  <img src="https://i.imgur.com/your-app-screenshot.png](https://i.imgur.com/Bi5INQk.png](https://i.imgur.com/Bi5INQk.png" alt="Bifrost Screenshot" width="700">
 </p>
 
 ## ✨ Features
